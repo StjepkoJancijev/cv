@@ -1,3 +1,10 @@
 body {
   background-color: lightgrey;
 }
+
+hr {
+  content: none;
+  border: 6px #94B49F;;
+  border-style: dotted none none;
+  width: 5%;
+}
